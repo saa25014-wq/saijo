@@ -217,7 +217,7 @@
     <!-- ページ最上部の大見出し -->
     <header>
         <h1>愛媛県 西条市</h1>
-        <p>〜 石鎚の恵み、名水が育む感動の街 〜</p>
+        <p>〜 石鎚の恵み、名水が育む感動 of 街 〜</p>
     </header>
 
     <div class="container">
@@ -235,9 +235,9 @@
                 また、日本一のお祭り好きとも称される活気あふれる秋の伝統「西条まつり」や、独自の製法で守り継がれてきた幻の後発酵茶「石鎚黒茶」など、独自の歴史と豊かな食文化が現代に息づいています。
             </p>
 
-            <!-- 配布された写真の表示エリア -->
+            <!-- 配布された写真の表示エリア（ファイル名を修正しました） -->
             <div class="image-container">
-                <img src="kurocha.jpg" alt="石鎚黒茶" class="city-image">
+                <img src="kurocha_2.jpg" alt="石鎚黒茶" class="city-image">
                 <p class="image-caption">西条市が誇る伝統の幻のお茶「石鎚黒茶」</p>
             </div>
         </section>
